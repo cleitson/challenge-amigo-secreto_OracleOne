@@ -25,7 +25,7 @@ O Amigo Secreto é um jogo popular em que os participantes trocam presentes de f
 
 1. Clone o repositório:
   ```bash
-  git clone https://github.com/seu-usuario/OracleOne.git
+  git clone https://github.com/cleitson/challenge-amigo-secreto_OracleOne.git
   ```
 2. Navegue até o diretório do projeto:
   ```bash
