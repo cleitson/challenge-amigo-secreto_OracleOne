@@ -29,7 +29,7 @@ O Amigo Secreto é um jogo popular em que os participantes trocam presentes de f
   ```
 2. Navegue até o diretório do projeto:
   ```bash
-  cd OracleOne/challenge-amigo-secreto_pt-main
+  cd challenge-amigo-secreto_OracleOne
   ```
 3. Abrir pagina web
   ```bash
